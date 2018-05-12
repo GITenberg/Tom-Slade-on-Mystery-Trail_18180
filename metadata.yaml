@@ -1,0 +1,51 @@
+_repo: Tom-Slade-on-Mystery-Trail_18180
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Owen, Robert Emmett
+    alias: Owen, R. Emmett (Robert Emmett)
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '5821'
+    url: http://www.gutenberg.org/2009/agents/5821
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fitzhugh, Percy Keese
+    aliases:
+    - Fitzhugh, Percy K.
+    - Fitzhugh, P. K. (Percy Keese)
+    birthdate: 1876
+    deathdate: 1950
+    gutenberg_agent_id: '2132'
+    url: http://www.gutenberg.org/2009/agents/2132
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
+description: At Temple Camp you may hear the story told of how Llewellyn, scout of
+  the first class, and Orestes, winner of the merit badges for architecture and for
+  music, were by their scouting skill and lore instrumental in solving a mystery and
+  performing a great good turn. Yet if you should ask old Uncle Jeb Rushmore, beloved
+  manager of the big scout camp, about these two scout heroes, a shrewd twinkle would
+  appear in his eye and he would refer you to the boys, who would probably only laugh
+  at you, for they are a bantering set at Temple Camp and would jolly the life out
+  of Daniel Boone himself if that redoubtable woodsman were there. Listen then while
+  I tell you of how Tom Slade, friend and brother of these two scouts, as he is of
+  all scouts, assisted them, and of how they assisted him; and of how, out of these
+  reciprocal good turns, there came true peace and happiness, which is the aim and
+  end of all scouting.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18180'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Camps -- Juvenile fiction'
+title: Tom Slade on Mystery Trail
+url: http://www.gutenberg.org/ebooks/18180
